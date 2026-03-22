@@ -1,3 +1,3 @@
 #!/bin/bash
 
-echo "Adding unit testsssss"
+echo "Adding"
